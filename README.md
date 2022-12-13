@@ -44,7 +44,7 @@
 
 <div align="center">
   <p><b>Contato</b></p>
-  <img src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="Javascript"/>
+  <a href="https://www.linkedin.com/in/eduardo-luis-hendges-moller-0a073b25a/?original_referer="><img src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="Javascript"/><a/>
   <img src="https://img.shields.io/badge/Microsoft_Outlook-292d3e?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Javascript"/>
   <img src="https://img.shields.io/badge/WhatsApp-292d3e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Javascript"/>
   <img src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="Javascript"/>
