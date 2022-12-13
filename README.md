@@ -1,7 +1,7 @@
 ### Ola meu noem é Eduardo Luís! ✌️
 ##
 <div align="center">
-<img src='https://avataaars.io/avatarStyle=Circle&topType=ShortHairShaggyMullet&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=Blank&clotheType=CollarSweater&clotheColor=Gray02&eyeType=WinkWacky&eyebrowType=UpDown&mouthType=Smile&skinColor=Pale%27/%3E'>
+<img height="400" width="400" src='https://media.discordapp.net/attachments/894667128643416104/1052320261531258991/Avatar-Maker.png?width=430&height=467'>
 </div> 
 
 <div align="center">
