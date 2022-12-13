@@ -1,4 +1,4 @@
-### Ola meu noem é Eduardo Luís! ✌️
+### Ola meu nome é Eduardo Luís! ✌️
 ##
 <div align="center">
 <img height="400" width="400" src='https://media.discordapp.net/attachments/894667128643416104/1052320261531258991/Avatar-Maker.png?width=430&height=467'>
