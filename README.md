@@ -1,18 +1,29 @@
 ### Ola meu nome é Eduardo Luís! ✌️
 ##
+<div>
 <div align="center">
-<img height="400" width="400" src='https://media.discordapp.net/attachments/894667128643416104/1052320261531258991/Avatar-Maker.png?width=430&height=467'>
-</div> 
-
-<div align="center">
-    <p>📖 Atualmente estudando informática</p>
-    <p>📍 Foco em Back-end</p>
-    <p>😊 Pronomes: ele/dele</p>
-    <p>💕 Apaixonado por animais e tecnologia 🐕🐈</p>
+    <img align="left" height="400" width="550" src='https://cdn.discordapp.com/attachments/727957995815829584/1052439526078943243/download.png'>
 </div>
 
 <br>
+<br>
+<br>
+<br>
+<div align="center">
+    <h3>Sobre mim</h3>
+    <p align="center">📖 Atualmente estudando informática</p>
+    <p align="center">📍 Foco em Back-end</p>
+    <p align="center">😊 Pronomes: ele/dele</p>
+    <p align="center">💕 Apaixonado por animais e tecnologia 🐕🐈</p>
+</div>
+</div>
+<br>
+<br>
+<br>
 
+##
+
+<br>
 <div align="center">
     <h1>Status</h1>
 </div>
