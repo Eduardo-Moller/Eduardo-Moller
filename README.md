@@ -15,7 +15,6 @@
         <p >📍 Foco em Back-end</p>
         <p >😊 Pronomes: ele/dele</p>
         <p>💕 Apaixonado por animais e tecnologia 🐕🐈</p>
-        <p>🗿🍷</p>
     </div>
 <br>
 <br>
@@ -65,3 +64,5 @@
 <h3 align="center">Commits :snake:</h3>
 
 ![Snake animation](https://github.com/Eduardo-Moller/Eduardo-Moller/blob/output/github-contribution-grid-snake.svg)
+
+## 🗿🍷
