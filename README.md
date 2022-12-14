@@ -3,7 +3,7 @@
 
 <div>
     <div align="right">
-        <img align="right" height="310" width="460" src='https://cdn.discordapp.com/attachments/727957995815829584/1052439526078943243/download.png'>
+        <img align="right" height="310" width="450" src='https://cdn.discordapp.com/attachments/727957995815829584/1052439526078943243/download.png'>
     </div>
 </div>
 
