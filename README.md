@@ -14,17 +14,15 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Moller&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
+    <h1>Status</h1>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Moller&layout=compact&langs_count=7&theme=dracula&hide_border=true">
-</div>
-
+|![](https://github-readme-stats.vercel.app/api?username=Eduardo-Moller&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true)|![Eduardo-Moller Stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Moller&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+|---|---|
 ##
 
 <div align="center">
-  <p><b>Tecnologias</b></p>
+  <h3>Habilidades ⭐ </h3>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
@@ -38,12 +36,13 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <br>
 </div>
+
 <br>
 
 ##
 
 <div align="center">
-  <p><b>Contato</b></p>
+  <h3>Contato ☎️ </h3>
   <a href="https://www.linkedin.com/in/eduardo-luis-hendges-moller-0a073b25a/?original_referer="><img src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <img src="https://img.shields.io/badge/Microsoft_Outlook-292d3e?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook"/>
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5551996449580"><img src="https://img.shields.io/badge/WhatsApp-292d3e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
@@ -52,5 +51,9 @@
   <br>
 </div>
 <br>
+
+##
+
+<h3 align="center">Commits :snake:</h3>
 
 ![Snake animation](https://github.com/Eduardo-Moller/Eduardo-Moller/blob/output/github-contribution-grid-snake.svg)
