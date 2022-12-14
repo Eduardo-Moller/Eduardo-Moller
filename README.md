@@ -3,7 +3,7 @@
 
 <div>
     <div align="right">
-        <img align="right" height="290" width="420" src='https://cdn.discordapp.com/attachments/727957995815829584/1052439526078943243/download.png'>
+        <img align="right" height="290" width="440" src='https://cdn.discordapp.com/attachments/727957995815829584/1052439526078943243/download.png'>
     </div>
 </div>
 
@@ -16,8 +16,6 @@
         <p >😊 Pronomes: ele/dele</p>
         <p>💕 Apaixonado por animais e tecnologia 🐕🐈</p>
     </div>
-<br>
-<br>
 <br>
 <br>
 
