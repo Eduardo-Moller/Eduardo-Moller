@@ -15,6 +15,7 @@
         <p >📍 Foco em Back-end</p>
         <p >😊 Pronomes: ele/dele</p>
         <p>💕 Apaixonado por animais e tecnologia 🐕🐈</p>
+        <p>🗿🍷</p>
     </div>
 <br>
 <br>
