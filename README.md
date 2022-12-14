@@ -8,7 +8,6 @@
 <br>
 <br>
 <br>
-<br>
 <div align="center">
     <h3>Sobre mim</h3>
     <p align="center">📖 Atualmente estudando informática</p>
