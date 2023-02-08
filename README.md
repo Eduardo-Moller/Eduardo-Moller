@@ -64,6 +64,3 @@
 
 ![Snake animation](https://github.com/Eduardo-Moller/Eduardo-Moller/blob/output/github-contribution-grid-snake.svg)
 
-
-<h1 align="center">🗿🍷</h1>
-
