@@ -1,12 +1,6 @@
 ### Ola meu nome é Eduardo Luís! ✌️
 ##
 
-<div>
-    <div align="right">
-        <img align="right" height="310" width="440" src='https://cdn.discordapp.com/attachments/727957995815829584/1052439526078943243/download.png'>
-    </div>
-</div>
-
 <br>
 <br>
     <div align="center">
@@ -18,7 +12,6 @@
     </div>
 <br>
 <br>
-
 
 <div align="center">
     <h1>Status</h1>
