@@ -5,9 +5,8 @@
 <br>
     <div align="center">
         <h3>Sobre mim</h3>
-        <p >📖 Atualmente estudando informática</p>
-        <p >📍 Foco em Back-end</p>
-        <p >😊 Pronomes: ele/dele</p>
+        <p>📖 Formando sistemas de informaçoes</p>
+        <p>📍 Foco em Back-end</p>
         <p>💕 Apaixonado por animais e tecnologia 🐕🐈</p>
     </div>
 <br>
