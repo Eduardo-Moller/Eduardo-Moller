@@ -7,7 +7,6 @@
         <h3>Sobre mim</h3>
         <p>📖 Formando sistemas de informaçoes</p>
         <p>📍 Foco em Back-end</p>
-        <p>💕 Apaixonado por animais e tecnologia 🐕🐈</p>
     </div>
 <br>
 <br>
