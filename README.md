@@ -1,57 +1,15 @@
-### Ola meu nome é Eduardo Luís! ✌️
-##
+<h1 align="center">Hi 👋, I'm Eduardo Moller</h1>
+<h3 align="center">A Brazilian back-end developer passionate about technology and animals.</h3>
 
-<br>
-<br>
-    <div align="center">
-        <h3>Sobre mim</h3>
-        <p>📖 Formando sistemas de informaçoes</p>
-        <p>📍 Foco em Back-end</p>
-    </div>
-<br>
-<br>
+- 🔭 I’m currently working on **CWI**
 
-<div align="center">
-    <h1>Status</h1>
-</div>
+- 📫 How to reach me **eduardo.moller@hotmail.com**
 
-|![](https://github-readme-stats.vercel.app/api?username=Eduardo-Moller&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true)|![Eduardo-Moller Stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Moller&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-|---|---|
-##
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/eduardo-moller-570124293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-moller-570124293" height="30" width="40" /></a>
+<a href="https://instagram.com/eduardo.moller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduardo.moller" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <h3>Habilidades ⭐ </h3>
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <br>
-</div>
-
-<br>
-
-##
-
-<div align="center">
-  <h3>Contato ☎️ </h3>
-  <a href="https://www.linkedin.com/in/eduardo-luis-hendges-moller-0a073b25a/?original_referer="><img src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-292d3e?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook"/>
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5551996449580"><img src="https://img.shields.io/badge/WhatsApp-292d3e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
-  <a href="https://www.instagram.com/eduardo.moller/"><img src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://steamcommunity.com/id/Eduuzin/"><img src="https://img.shields.io/badge/Steam-292d3e?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
-  <br>
-</div>
-<br>
-
-##
-
-<h3 align="center">Commits :snake:</h3>
-
-![Snake animation](https://github.com/Eduardo-Moller/Eduardo-Moller/blob/output/github-contribution-grid-snake.svg)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
